@@ -3,11 +3,9 @@ GEM
   specs:
     childprocess (4.1.0)
     diff-lcs (1.4.4)
-
     rake (13.0.6)
     regexp_parser (2.1.1)
     rexml (3.2.5)
-
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
@@ -26,7 +24,7 @@ GEM
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
-    watir (7.0.0)
+    watir (7.1.0)
       regexp_parser (>= 1.2, < 3)
       selenium-webdriver (~> 4.0)
 
